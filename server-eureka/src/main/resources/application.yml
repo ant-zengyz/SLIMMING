@@ -5,7 +5,7 @@ server:
 # 服务名配置
 spring:
   application:
-    name: locomotive-eureka
+    name: server-eureka
 
   # 权限配置
   security:
