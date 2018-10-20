@@ -11,6 +11,10 @@
     <name>pom-eureka</name>
     <description>POM项目：EUREKA依赖</description>
 
+    <modules>
+        <module>../server-eureka</module>
+    </modules>
+
     <parent>
         <groupId>com.example</groupId>
         <artifactId>pom-parent</artifactId>
